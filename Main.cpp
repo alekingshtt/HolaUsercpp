@@ -7,7 +7,7 @@ int main(){
     
     cout<<"Ingrese su nombre "<<endl;
 
-    cin>>user;
+    cin>>userrr;
 
     if (user != "" || user != " "){
         cout<<"Hola "<<user<<endl;
